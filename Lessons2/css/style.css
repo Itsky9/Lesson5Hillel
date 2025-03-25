@@ -1,0 +1,118 @@
+
+table{
+    border-collapse: collapse
+    }
+body{
+    line-height: 1.4;
+    background: #ccc;
+}
+table{
+    width: 100%;
+}
+.wrapper{
+padding: 12px 20px 20px;
+box-sizing: border-box;
+width: 600px;
+margin: 0 auto;
+background: #fff;
+box-shadow: 0 0 5px 0 #000;
+}
+.t-head{
+    padding: 0 0 48px;
+    font-weight: 400;
+}
+.t-head-title{
+    margin: 0 0 8px;
+}
+.t-head-desc{
+    margin: 0;
+}
+.t-123{
+    text-align: end;
+    vertical-align: bottom;
+    color: #667085;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+
+
+}
+
+
+.t-head-title{
+    padding-top: 40px;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+.t-head-desc{
+    color: #667085;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+}
+.Item-left{
+    color: #667085;
+    padding: 16px 0;
+
+
+}
+.Qty-right{
+    text-align: right;
+    padding: 16px 0;
+}
+.Prise-right{
+    text-align: right;
+    padding: 16px 0;
+}
+.t-border{
+border-bottom: 1px solid#E0E0E0;
+}
+.batoon-2{
+margin: 0;
+}
+.Alme-top{
+padding-top: 28px;
+}
+.t-browser{
+text-decoration: none;
+color: #98A2B3;    
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+}
+.Acme-botoon{
+padding-top: 48px;
+}
+.batoon-bot{
+
+color: #667085;
+font-family: Inter;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px; 
+}
+.boooton-div{
+
+}
+.batoon-bot{
+margin: 0;
+}
+.batoon-acme{
+color: #101828;
+margin: 0;
+padding-bottom: 4px;
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+
+}
