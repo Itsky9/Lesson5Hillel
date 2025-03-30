@@ -1,0 +1,142 @@
+@import url(reset.css);
+
+.conteiner-one {
+    font-size: 0;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto 0;
+ 
+}
+.box div {
+    outline: 2px solid red;
+}
+
+.conteiner-one {
+    font-size: 0;
+}
+
+.child{
+    outline: 2px solid green;
+    width: 400px;
+    height: 400px;
+    display: inline-block;      
+}
+div.child{
+    font-size: 16px;
+    line-height: 100%;
+    text-align: justify;
+    background: #F6FFD4;
+    padding: 20px;
+
+}
+/*-------------------------------------*/
+.conteiner-two{
+    font-size: 0;
+}
+.child-one{
+    display: inline-block;
+    width: 800px;
+    font-size: 20px;
+}
+.child-one+.child-one{
+    width: 400px;
+}
+.child-one+.child-one > div{
+    height: 133.33px;
+}
+.child-one>div{
+    height: 200px;
+}
+.child-text{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: justify;
+    padding: 20px 20px 20px 20px;
+    background: #DAFBF7;
+    
+}
+.conteiner-theree{
+    font-size: 0;
+   
+}
+.blok1-left{
+   display: inline-block;
+    width: 400px;
+    height: 400px;
+    font-size: 20px;
+}
+.blok1-left{
+    background: #F9E6F9;
+    font-size: 16px;
+    line-height: 100%;
+    text-align: justify;
+    padding: 20px;
+}
+
+.blok1-left+.blok1-top{
+    display: inline-block;
+    width: 800px;
+   font-size: 20px;
+}
+.blok2-botton-left{
+        background: #F9E6F9;
+        font-size: 16px;
+        line-height: 100%;
+        text-align: justify;
+        padding: 20px;
+}
+.blok2-botton-left{
+    height: 200px;
+
+}
+.blok-botton{
+    background: #F9E6F9;
+        font-size: 16px;
+        line-height: 100%;
+        text-align: justify;
+        padding: 20px;
+}
+
+.blok-botton-right-two{
+    font-size: 0;    
+}
+.blok-botton-right-two> div {
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    font-size: 20px;
+}
+.block{
+    height: 100px;
+}
+.block{
+        background: #F9E6F9;
+        font-size: 16px;
+        line-height: 100%;
+        text-align: justify;
+        padding: 20px;  
+}
+
+
+
+
+/*--------------------------------*/
+
+.conteiner{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.child-float{
+    margin: 20px;
+    margin-left: 50;
+    font-size: 30px;
+}
+
+.bifo::after{
+    
+}
